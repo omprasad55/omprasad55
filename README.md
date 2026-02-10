@@ -89,7 +89,7 @@
 <a href="https://linkedin.com/in/om-prasad-maharana-649b29290" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="om-prasad-maharana" /></a>
 <a href="https://instagram.com/0mprasadmaharana" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="0mprasadmaharana" /></a>
 <a href="https://www.leetcode.com/omprasadmaharana55" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="omprasadmaharana55" /></a>
-<a href="https://www.topcoder.com/members/761029" target="blank"><img align="center" src="https://img.shields.io/badge/TopCoder-292929?style=for-the-badge&logo=topcoder&logoColor=white" alt="761029" /></a>
+
 </p>
 
 <div align="center">
