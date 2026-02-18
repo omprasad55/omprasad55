@@ -21,7 +21,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=omprasad55&style=for-the-badge&color=blueviolet" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=omprasad55&theme=algolia&no-frame=true&margin-w=8" />
+
 
 </div>
 
@@ -95,9 +95,23 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=omprasad55&show_icons=true&theme=tokyonight&hide_border=true" />
+<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omprasad55&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=omprasad55&show_icons=true&theme=tokyonight&hide_border=true&v=1" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omprasad55&layout=compact&theme=tokyonight&hide_border=true&v=1" />
+
+</div>
+
+---
+
+# 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=omprasad55&theme=tokyonight&hide_border=true" />
+
+</div>
 
 </div>
 
